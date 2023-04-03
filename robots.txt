@@ -1,0 +1,4 @@
+User-Agent: *
+Disallow:
+
+Sitemap: https://usemynotess.pages.dev/sitemap.xml
