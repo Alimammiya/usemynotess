@@ -1,49 +1,35 @@
 <?xml version="1.0" encoding="UTF-8"?>
-
 <urlset
       xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
       xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
-      xmlns:xhtml="http://www.w3.org/1999/xhtml"
-      xsi:schemaLocation="
-            http://www.sitemaps.org/schemas/sitemap/0.9
+      xsi:schemaLocation="http://www.sitemaps.org/schemas/sitemap/0.9
             http://www.sitemaps.org/schemas/sitemap/0.9/sitemap.xsd">
-<!-- created with PRO Sitemap Service https://pro-sitemaps.com -->
+<!-- created with Free Online Sitemap Generator www.xml-sitemaps.com -->
 
-  <url>
-       <loc>https://usemynotess.pages.dev/</loc>
-       <lastmod>2023-15-08T15:21:05+00:00</lastmod>
-       <changefreq>daily</changefreq>
-       <priority>1.0000</priority>
-  </url>
+
 <url>
-       <loc>https://usemynotess.pages.dev/network-security</loc>
-       <lastmod>2023-30-03T15:21:05+00:00</lastmod>
-       <changefreq>daily</changefreq>
-       <priority>0.80</priority>
-  </url>
-<url>
-       <loc>https://usemynotess.pages.dev/des-algorithm</loc>
-       <lastmod>2023-30-03T15:21:05+00:00</lastmod>
-       <changefreq>daily</changefreq>
-       <priority>0.80</priority>
+  <loc>https://usemynotess.pages.dev/</loc>
+  <lastmod>2023-08-17T17:28:33+00:00</lastmod>
+  <changefreq>weekly</changefreq>
+  <priority>1.00</priority>
 </url>
 <url>
-       <loc>https://usemynotess.pages.dev/java-programming</loc>
-       <lastmod>2023-30-03T15:21:05+00:00</lastmod>
-       <changefreq>daily</changefreq>
-       <priority>0.80</priority>
-</url>      
-<url>
-       <loc>https://usemynotess.pages.dev/javascript-course</loc>
-       <lastmod>2023-30-03T15:21:05+00:00</lastmod>
-       <changefreq>daily</changefreq>
-       <priority>0.80</priority>
+  <loc>https://usemynotess.pages.dev/network-security</loc>
+  <lastmod>2023-08-17T17:28:33+00:00</lastmod>
+  <changefreq>weekly</changefreq>
+  <priority>0.80</priority>
 </url>
 <url>
-       <loc>https://usemynotess.pages.dev/c-programming</loc>
-       <lastmod>2023-30-03T15:21:05+00:00</lastmod>
-       <changefreq>daily</changefreq>
-       <priority>0.80</priority>
+  <loc>https://usemynotess.pages.dev/des-algorithm</loc>
+  <lastmod>2023-08-17T17:28:33+00:00</lastmod>
+  <changefreq>weekly</changefreq>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://usemynotess.pages.dev/java-programming</loc>
+  <lastmod>2023-08-17T17:28:33+00:00</lastmod>
+  <changefreq>weekly</changefreq>
+  <priority>0.80</priority>
 </url>
 <url>
        <loc>https://usemynotess.pages.dev/directory-submission-sites-list</loc>
@@ -52,9 +38,323 @@
        <priority>0.80</priority>
 </url>
 <url>
-       <loc>https://usemynotess.pages.dev/toughest-exams-in-india</loc>
-       <lastmod>2023-15-08T15:21:05+00:00</lastmod>
-       <changefreq>daily</changefreq>
-       <priority>0.80</priority>
+  <loc>https://usemynotess.pages.dev/javascript-course</loc>
+  <lastmod>2023-08-17T17:28:33+00:00</lastmod>
+  <changefreq>weekly</changefreq>
+  <priority>0.80</priority>
 </url>
+<url>
+  <loc>https://usemynotess.pages.dev/c-programming</loc>
+  <lastmod>2023-08-17T17:28:33+00:00</lastmod>
+  <changefreq>weekly</changefreq>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://usemynotess.pages.dev/page</loc>
+  <lastmod>2023-08-17T17:28:33+00:00</lastmod>
+  <changefreq>weekly</changefreq>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://usemynotess.pages.dev/page1</loc>
+  <lastmod>2023-08-17T17:28:33+00:00</lastmod>
+  <changefreq>weekly</changefreq>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://usemynotess.pages.dev/page2</loc>
+  <lastmod>2023-08-17T17:28:33+00:00</lastmod>
+  <changefreq>weekly</changefreq>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://usemynotess.pages.dev/page3</loc>
+  <lastmod>2023-08-17T17:28:33+00:00</lastmod>
+  <changefreq>weekly</changefreq>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://usemynotess.pages.dev/page4</loc>
+  <lastmod>2023-08-17T17:28:33+00:00</lastmod>
+  <changefreq>weekly</changefreq>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://usemynotess.pages.dev/page5</loc>
+  <lastmod>2023-08-17T17:28:33+00:00</lastmod>
+  <changefreq>weekly</changefreq>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://usemynotess.pages.dev/page6</loc>
+  <lastmod>2023-08-17T17:28:33+00:00</lastmod>
+  <changefreq>weekly</changefreq>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://usemynotess.pages.dev/page7</loc>
+  <lastmod>2023-08-17T17:28:33+00:00</lastmod>
+  <changefreq>weekly</changefreq>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://usemynotess.pages.dev/page8</loc>
+  <lastmod>2023-08-17T17:28:33+00:00</lastmod>
+  <changefreq>weekly</changefreq>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://usemynotess.pages.dev/page9</loc>
+  <lastmod>2023-08-17T17:28:33+00:00</lastmod>
+  <changefreq>weekly</changefreq>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://usemynotess.pages.dev/page10</loc>
+  <lastmod>2023-08-17T17:28:33+00:00</lastmod>
+  <changefreq>weekly</changefreq>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://usemynotess.pages.dev/page11</loc>
+  <lastmod>2023-08-17T17:28:33+00:00</lastmod>
+  <changefreq>weekly</changefreq>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://usemynotess.pages.dev/page12</loc>
+  <lastmod>2023-08-17T17:28:33+00:00</lastmod>
+  <changefreq>weekly</changefreq>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://usemynotess.pages.dev/page13</loc>
+  <lastmod>2023-08-17T17:28:33+00:00</lastmod>
+  <changefreq>weekly</changefreq>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://usemynotess.pages.dev/page14</loc>
+  <lastmod>2023-08-17T17:28:33+00:00</lastmod>
+  <changefreq>weekly</changefreq>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://usemynotess.pages.dev/page15</loc>
+  <lastmod>2023-08-17T17:28:33+00:00</lastmod>
+  <changefreq>weekly</changefreq>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://usemynotess.pages.dev/page16</loc>
+  <lastmod>2023-08-17T17:28:33+00:00</lastmod>
+  <changefreq>weekly</changefreq>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://usemynotess.pages.dev/page17</loc>
+  <lastmod>2023-08-17T17:28:33+00:00</lastmod>
+  <changefreq>weekly</changefreq>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://usemynotess.pages.dev/page18</loc>
+  <lastmod>2023-08-17T17:28:33+00:00</lastmod>
+  <changefreq>weekly</changefreq>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://usemynotess.pages.dev/page19</loc>
+  <lastmod>2023-08-17T17:28:33+00:00</lastmod>
+  <changefreq>weekly</changefreq>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://usemynotess.pages.dev/page20</loc>
+  <lastmod>2023-08-17T17:28:33+00:00</lastmod>
+  <changefreq>weekly</changefreq>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://usemynotess.pages.dev/page21</loc>
+  <lastmod>2023-08-17T17:28:33+00:00</lastmod>
+  <changefreq>weekly</changefreq>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://usemynotess.pages.dev/page22</loc>
+  <lastmod>2023-08-17T17:28:33+00:00</lastmod>
+  <changefreq>weekly</changefreq>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://usemynotess.pages.dev/page23</loc>
+  <lastmod>2023-08-17T17:28:33+00:00</lastmod>
+  <changefreq>weekly</changefreq>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://usemynotess.pages.dev/page24</loc>
+  <lastmod>2023-08-17T17:28:33+00:00</lastmod>
+  <changefreq>weekly</changefreq>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://usemynotess.pages.dev/page25</loc>
+  <lastmod>2023-08-17T17:28:33+00:00</lastmod>
+  <changefreq>weekly</changefreq>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://usemynotess.pages.dev/page26</loc>
+  <lastmod>2023-08-17T17:28:33+00:00</lastmod>
+  <changefreq>weekly</changefreq>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://usemynotess.pages.dev/page27</loc>
+  <lastmod>2023-08-17T17:28:33+00:00</lastmod>
+  <changefreq>weekly</changefreq>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://usemynotess.pages.dev/page28</loc>
+  <lastmod>2023-08-17T17:28:33+00:00</lastmod>
+  <changefreq>weekly</changefreq>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://usemynotess.pages.dev/page29</loc>
+  <lastmod>2023-08-17T17:28:33+00:00</lastmod>
+  <changefreq>weekly</changefreq>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://usemynotess.pages.dev/page30</loc>
+  <lastmod>2023-08-17T17:28:33+00:00</lastmod>
+  <changefreq>weekly</changefreq>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://usemynotess.pages.dev/page31</loc>
+  <lastmod>2023-08-17T17:28:33+00:00</lastmod>
+  <changefreq>weekly</changefreq>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://usemynotess.pages.dev/page32</loc>
+  <lastmod>2023-08-17T17:28:33+00:00</lastmod>
+  <changefreq>weekly</changefreq>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://usemynotess.pages.dev/page33</loc>
+  <lastmod>2023-08-17T17:28:33+00:00</lastmod>
+  <changefreq>weekly</changefreq>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://usemynotess.pages.dev/page34</loc>
+  <lastmod>2023-08-17T17:28:33+00:00</lastmod>
+  <changefreq>weekly</changefreq>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://usemynotess.pages.dev/page35</loc>
+  <lastmod>2023-08-17T17:28:33+00:00</lastmod>
+  <changefreq>weekly</changefreq>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://usemynotess.pages.dev/page36</loc>
+  <lastmod>2023-08-17T17:28:33+00:00</lastmod>
+  <changefreq>weekly</changefreq>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://usemynotess.pages.dev/page37</loc>
+  <lastmod>2023-08-17T17:28:33+00:00</lastmod>
+  <changefreq>weekly</changefreq>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://usemynotess.pages.dev/page38</loc>
+  <lastmod>2023-08-17T17:28:33+00:00</lastmod>
+  <changefreq>weekly</changefreq>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://usemynotess.pages.dev/page39</loc>
+  <lastmod>2023-08-17T17:28:33+00:00</lastmod>
+  <changefreq>weekly</changefreq>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://usemynotess.pages.dev/page40</loc>
+  <lastmod>2023-08-17T17:28:33+00:00</lastmod>
+  <changefreq>weekly</changefreq>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://usemynotess.pages.dev/page41</loc>
+  <lastmod>2023-08-17T17:28:33+00:00</lastmod>
+  <changefreq>weekly</changefreq>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://usemynotess.pages.dev/page42</loc>
+  <lastmod>2023-08-17T17:28:33+00:00</lastmod>
+  <changefreq>weekly</changefreq>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://usemynotess.pages.dev/page43</loc>
+  <lastmod>2023-08-17T17:28:33+00:00</lastmod>
+  <changefreq>weekly</changefreq>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://usemynotess.pages.dev/page44</loc>
+  <lastmod>2023-08-17T17:28:33+00:00</lastmod>
+  <changefreq>weekly</changefreq>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://usemynotess.pages.dev/page45</loc>
+  <lastmod>2023-08-17T17:28:33+00:00</lastmod>
+  <changefreq>weekly</changefreq>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://usemynotess.pages.dev/page46</loc>
+  <lastmod>2023-08-17T17:28:33+00:00</lastmod>
+  <changefreq>weekly</changefreq>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://usemynotess.pages.dev/page47</loc>
+  <lastmod>2023-08-17T17:28:33+00:00</lastmod>
+  <changefreq>weekly</changefreq>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://usemynotess.pages.dev/page48</loc>
+  <lastmod>2023-08-17T17:28:33+00:00</lastmod>
+  <changefreq>weekly</changefreq>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://usemynotess.pages.dev/page49</loc>
+  <lastmod>2023-08-17T17:28:33+00:00</lastmod>
+  <changefreq>weekly</changefreq>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://usemynotess.pages.dev/page50</loc>
+  <lastmod>2023-08-17T17:28:33+00:00</lastmod>
+  <changefreq>weekly</changefreq>
+  <priority>0.80</priority>
+</url>
+
+
 </urlset>
